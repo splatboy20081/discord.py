@@ -16,3 +16,4 @@ class MyClient(discord.Client):
 
 client = MyClient()
 client.run('token')
+print('running new member example')
